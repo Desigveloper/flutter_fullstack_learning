@@ -1,4 +1,4 @@
-# Your three big projects
+# Your six big projects
 📝 Pro Tip
 
 Document each project in its own README.md:

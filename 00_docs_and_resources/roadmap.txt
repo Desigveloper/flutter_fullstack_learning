@@ -1,25 +1,18 @@
-📍 The Roadmap
-    Phase 1 — Dart Fundamentals (~ 1 week)
-        Variables, types, functions, OOP, async — the language itself.
-
-    Phase 2 — Flutter Core (~ 1 week)
-        Widgets, layout, state, navigation — how Flutter thinks.
-
-    Phase 3 — Major Projects Part One: 
-        Auth, CRUD, UI + logic. Your first real app.
-        
-        * Project 1 - Hospital Appointment App
-        * Project 2 - Ecommerce App
-
-
-    Phase 4 — Major Projects Part Two:
-        Data modeling, multi-user roles, relational thinking.
-        
-        * Project 3 - School Management Mini App
-        * Project 4 - Chat/Messaging App
-
-    Phase 5 — Major Projects Phree:
-        Real-world flows, reusable patterns, production thinking.
-        
-        * Project 5 - Business Booking App
-        * Project 6 - Task Manager App
+📍 The Roadmap: What each project teaches
+                    
+Project 1 - Task Manager App  ──►  CRUD · Local State · Forms · Persistence
+    │
+    ▼
+Project 2 - Hospital Management System ──►  Auth · Firebase · Roles · Streams · Real Backend
+    │
+    ▼
+Project 3 - School Management Mini App  ──►  Data Modeling · Relational Data · Provider · Permissions
+    │
+    ▼
+Project 4 - Business Booking App  ──►  Reusable Architecture · Riverpod · Complex UI · Scheduling
+    │
+    ▼
+Project 5 - E-commerce App  ──►  Real-time · Pagination · Storage · Push Notifications
+    │
+    ▼
+Project 6 - Chat/Messenger App  ──►  Clean Architecture · Payments · Performance · Deployment
