@@ -1,18 +1,24 @@
-📍 The Roadmap: What each project teaches
+📍 The Roadmap/What each project teaches
                     
-Project 1 - Task Manager App  ──►  CRUD · Local State · Forms · Persistence
+Project 1 - Task Manager (simplest CRUD) 
+ ──►  CRUD · Local State · Forms · Persistence
     │
     ▼
-Project 2 - Hospital Management System ──►  Auth · Firebase · Roles · Streams · Real Backend
+Project 2 - Hospital Appointment App (Auth + CRUD + UI)
+ ──►  Auth · Firebase · Roles · Streams · Real Backend
     │
     ▼
-Project 3 - School Management Mini App  ──►  Data Modeling · Relational Data · Provider · Permissions
+Project 3 - School Management Mini App (Data modeling, multi-user)
+ ──►  Data Modeling · Relational Data · Provider · Permissions
     │
     ▼
-Project 4 - Business Booking App  ──►  Reusable Architecture · Riverpod · Complex UI · Scheduling
+Project 4 - Business Booking App (Real-world flow, reusable patterns)
+ ──►  Reusable Architecture · Riverpod · Complex UI · Scheduling
     │
     ▼
-Project 5 - E-commerce App  ──►  Real-time · Pagination · Storage · Push Notifications
+Project 5 - Ecommerce App (Complex state, payments, catalogs)
+ ──►  Real-time · Pagination · Storage · Push Notifications
     │
-    ▼
-Project 6 - Chat/Messenger App  ──►  Clean Architecture · Payments · Performance · Deployment
+    ▼   
+Project 6 - Chat App / Messaging App (Real-time, streams, Firebase)
+ ──►  Clean Architecture · Payments · Performance · Deployment
