@@ -11,7 +11,7 @@ void printUserData() {
   final String userID = "USR-00421";
   int totalTasks = 20;
   int tasksCompleted = 12;
-  bool hasOverdueTask = true;
+  bool hasOverdueTask = false;
   String? pinnedNote;
 
   List<String> taskCategories = ["Work", "Personal", "Spiritual"];
@@ -38,7 +38,8 @@ void printUserData() {
   print(
     "Progress            : ${(tasksCompleted / totalTasks * 100).toStringAsFixed(1)}%",
   );
-  print("Overdue         : ${hasOverdueTask ? 'Yes' : 'No'}");
+  // ignore: dead_code
+  print("Overdue         : ${!hasOverdueTask ? 'Yes' : 'No'}");
   print("Pinned Notes    : ${pinnedNote ?? 'No pinned note'}");
 
   print("-----------------------------------------------------------------");
